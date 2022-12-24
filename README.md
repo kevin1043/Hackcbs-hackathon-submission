@@ -1,5 +1,5 @@
 
-# Healthutopia - A heathcare website
+# Healthutopia - Heathcare website
 This project is created for Hackthon named Hackcbs where we have modified template using html,css,javascript and added some extra features Described below.
 
 ## Demo
